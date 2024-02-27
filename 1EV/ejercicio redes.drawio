@@ -1,0 +1,353 @@
+<mxfile host="app.diagrams.net" modified="2023-11-29T08:59:30.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0tHocCbs0F1jsnNtEfqU" version="22.1.4" type="device" pages="2">
+  <diagram name="Página-1" id="qyvwzFRwgaHyhM6ublA8">
+    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="104" y="285.9" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-71" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="515.6" y="538" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-69" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="515.6" y="408.2" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="554" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE200.svg;" vertex="1" parent="1">
+          <mxGeometry x="450.00000000000006" y="217.3" width="40.2" height="56.4" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-23" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="200.9" width="52.8" height="51.8" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="50" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-23" target="BFS96wFgHPgQlhh_hoL1-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="235.79999999999998" y="818.2" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-29" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="471" y="818.2" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-30" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="630" y="830" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-32" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-31" target="BFS96wFgHPgQlhh_hoL1-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-28" target="BFS96wFgHPgQlhh_hoL1-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="911" as="sourcePoint" />
+            <mxPoint x="440" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-32" target="BFS96wFgHPgQlhh_hoL1-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="480" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-36" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.044;exitY=0.534;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.947;entryY=0.776;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-30" target="BFS96wFgHPgQlhh_hoL1-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="700" as="sourcePoint" />
+            <mxPoint x="520" y="913" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200.9" width="550" height="519.1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-45" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=south;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="409.21" y="188.49" width="94.23" height="129.05" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-46" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=west" vertex="1" parent="1">
+          <mxGeometry x="80" y="295" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="620" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-50" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.05;entryY=0.691;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136" y="570" as="sourcePoint" />
+            <mxPoint x="109.79999999999995" y="550.7299999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-52" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="317.2" y="217.3" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="464" y="340" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="464" y="438.2" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="464" y="530" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="471" y="614.8" width="86" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="507.2" y="659.53" width="42.8" height="45.47" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="492.5" width="275.5" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="557" y="390" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="557" y="504.1" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-62" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="80" y="351.8" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-63" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="120" y="446.25" width="60" height="63.75" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-64" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.toilet;" vertex="1" parent="1">
+          <mxGeometry x="90" y="368" width="50" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.table;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="275.9" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="82.2" y="264.1" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-67" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="440.2" y="572.8" width="40" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-68" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-70" value="" style="shape=rect;shadow=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.2" y="499" width="94" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="457.84000000000003" y="500.2" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-83" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="75" y="210" width="15" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-87" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="695" width="520" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-90" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="592.8" y="220" width="15" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-91" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="486.8" y="210" width="53.2" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-92" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="490.2" y="300" width="15" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-93" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.horCableDuct;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="357.2" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-95" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-13">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="540" as="sourcePoint" />
+            <mxPoint x="480" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="246" />
+              <mxPoint x="500" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-96" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;" edge="1" parent="1" target="BFS96wFgHPgQlhh_hoL1-23">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="470" y="225" as="sourcePoint" />
+            <mxPoint x="570" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="225" />
+              <mxPoint x="460" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-97" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-23" target="BFS96wFgHPgQlhh_hoL1-5">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-98" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="BFS96wFgHPgQlhh_hoL1-4">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="573.77" y="417" as="sourcePoint" />
+            <mxPoint x="607.77" y="554" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-99" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-4" target="BFS96wFgHPgQlhh_hoL1-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="557" y="591" as="sourcePoint" />
+            <mxPoint x="583.23" y="678" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="700" />
+              <mxPoint x="90" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-100" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-1" target="BFS96wFgHPgQlhh_hoL1-3">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="65.60000000000002" y="492.5" as="sourcePoint" />
+            <mxPoint x="165.60000000000002" y="492.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="295" />
+              <mxPoint x="80" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-103" value="" style="shape=wire;edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endArrow=none;curved=0;rounded=0;strokeColor=#009900;dashed=1;fillColor=#ffff00;dashPattern=12 12;fixDash=1;startSize=6;endSize=6;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-1" target="BFS96wFgHPgQlhh_hoL1-13">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="510" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="295" />
+              <mxPoint x="80" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-104" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE200.svg;" vertex="1" parent="1">
+          <mxGeometry x="369.01" y="960" width="40.2" height="56.4" as="geometry" />
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-104" target="BFS96wFgHPgQlhh_hoL1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="970" as="sourcePoint" />
+            <mxPoint x="540" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0.508;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-104" target="BFS96wFgHPgQlhh_hoL1-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="970" as="sourcePoint" />
+            <mxPoint x="540" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-32" target="BFS96wFgHPgQlhh_hoL1-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="970" as="sourcePoint" />
+            <mxPoint x="320" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-104" target="BFS96wFgHPgQlhh_hoL1-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="980" as="sourcePoint" />
+            <mxPoint x="300" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BFS96wFgHPgQlhh_hoL1-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0.768;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.1;exitY=0.774;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BFS96wFgHPgQlhh_hoL1-104" target="BFS96wFgHPgQlhh_hoL1-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1010" as="sourcePoint" />
+            <mxPoint x="210" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z1CHx_H4mJc8tPXeKVhP" name="Página-2">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="470" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="580" y="470" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-1" target="VtcFcbifM-JNY1iyukAQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-5" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.022;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-2" target="VtcFcbifM-JNY1iyukAQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="272" as="sourcePoint" />
+            <mxPoint x="370" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="369" y="60" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="122" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="505" y="290" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="226" y="290" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-9" target="VtcFcbifM-JNY1iyukAQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-12" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Industrial_Ethernet_IE200.svg;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="40.2" height="56.4" as="geometry" />
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-10" target="VtcFcbifM-JNY1iyukAQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="315" as="sourcePoint" />
+            <mxPoint x="410" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-6" target="VtcFcbifM-JNY1iyukAQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtcFcbifM-JNY1iyukAQ-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="VtcFcbifM-JNY1iyukAQ-12" target="VtcFcbifM-JNY1iyukAQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="200" as="sourcePoint" />
+            <mxPoint x="600" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
